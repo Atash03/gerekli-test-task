@@ -1,6 +1,6 @@
 "use client";
 
-import { Box, Flex, Button as RadixButton, Text } from "@radix-ui/themes";
+import { Flex, Button as RadixButton, Text } from "@radix-ui/themes";
 import Image from "next/image";
 import Link from "next/link";
 import { type ReactNode, useState } from "react";
